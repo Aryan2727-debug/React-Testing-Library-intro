@@ -2,9 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header,
+.value,
+.testcase-header {
+  color: #ffffff;
 }
 
 @media (prefers-reduced-motion: no-preference) {
