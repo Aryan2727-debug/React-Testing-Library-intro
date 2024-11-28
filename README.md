@@ -1,7 +1,9 @@
 # React Testing Library Introduction
 
 This is a basic React Counter application which is developed with the primary goal to demonstrate the usage of React Testing Library. 
+<br />
 To view the tests, you can look at the "<b>Counter.test.js</b>" file.
+<br />
 To run the tests, use the "<b>npm run test</b>" command. 
 
 # Getting Started with Create React App
